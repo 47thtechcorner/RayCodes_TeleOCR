@@ -1,0 +1,7 @@
+models/
+outputs/
+inputs/
+assets/
+__pycache__/
+*.db
+.DS_Store
