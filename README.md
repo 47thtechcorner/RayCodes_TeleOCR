@@ -1,8 +1,8 @@
 <div align="center">
   <a href="YOUTUBE_URL_HERE">
-    <img src="https://img.youtube.com/vi/VIDEO_ID/0.jpg" alt="TeleOCR 1.2B Parameter Vision-Language Model Document AI Setup">
+    <img src="https://img.youtube.com/vi/VIDEO_ID/0.jpg" alt="TeleOCR: The 1B OCR Model Challenging GPT-5.2 and Gemini!">
   </a>
-  <h3>📺 <a href="YOUTUBE_URL_HERE">Watch the full video tutorial on YouTube</a></h3>
+  <h3>📺 <a href="YOUTUBE_URL_HERE">Watch the full tutorial on YouTube</a></h3>
 </div>
 
 # 🌐 TeleOCR 1B Beats GPT
